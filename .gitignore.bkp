@@ -1,0 +1,6 @@
+env/
+.gcloudignore
+.gitignore
+app.yaml
+project.db
+static/
